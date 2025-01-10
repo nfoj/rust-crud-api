@@ -8,5 +8,6 @@ postgres = "0.19.9"
 serde = "1.0.217"
 serde_json = "1.0.134"
 serde_derive = "1.0.217"
+build = "0.0.2"
 
 # Note: serde, necessary to implement the serialize and deserialize trait.
