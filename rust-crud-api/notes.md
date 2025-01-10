@@ -97,3 +97,11 @@ volumes:
 
 - db
   - image: postgres:12
+
+
+
+### Update - Postgres
+
+- image: postgres:12 > 16
+
+https://github.com/paperless-ngx/paperless-ngx/discussions/6669#discussioncomment-9445644
