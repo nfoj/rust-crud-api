@@ -1,11 +1,11 @@
 ## 🦀 CRUD - Rust
 
-### 📝 Introduction
-The project of a CRUD in Rust, with the goal of learning how the development lineage works better, in addition to being able to put into practice other knowledge such as: Docker, Docker Compose, Postgres.
+### 📝 Introdução
+O projeto de um CRUD em Rust, com o objetivo de aprender como a linhagem de desenvolvimento funciona melhor, além de poder colocar em prática outros conhecimentos como: Docker, Docker Compose e Postgres.
 
-### 📦 Project
-- **CRUD:** simple create, read, update, and delete implementations were made.
-- **Serde:** implementation of the serialize and deserialize characteristics;
-- **Docker:** contain the Rust and Postgres applications;
-- **Docker compose:** create a connection between the Rust docker and Postgres;
-- **Postman:** used in the testing process;
+### 📦 Projeto
+- **CRUD:** implementações simples de criar, ler, atualizar e deletar.
+- **Serde:** implementação das características de serialização e desserialização;
+- **Docker:** contém as aplicações Rust e Postgres;
+- **Docker compose:** cria uma conexão entre o docker Rust e Postgres;
+- **Postman:** usado no processo de testes;
